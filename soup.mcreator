@@ -104,7 +104,7 @@
       "type": "recipe",
       "sortid": 12,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "registry_name": "water_bamboo_tube_synthesis",
       "path": "~/synthesis"
     }
