@@ -16,7 +16,7 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiber_synthesis",
-      "path": "~/Synthesis"
+      "path": "~/synthesis"
     },
     {
       "name": "HideRope",
@@ -26,18 +26,56 @@
       "locked_code": false,
       "registry_name": "hide_rope",
       "path": "~/base item"
+    },
+    {
+      "name": "HideRopeSynthesis1",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hide_rope_synthesis_1",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "HideRopeSynthesis2",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hide_rope_synthesis_2",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "Graver",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graver",
+      "path": "~/base item"
+    },
+    {
+      "name": "GraverSynthesis",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graver_synthesis",
+      "path": "~/synthesis"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.soup.graver": "Graver",
       "item.soup.fiber": "Fiber",
       "item.soup.hide_rope": "Hide Rope"
     },
     "zh_cn": {
+      "item.soup.graver": "雕刻刀",
       "item.soup.fiber": "纤维",
-      "item.soup.hide_rope": "Hide Rope"
+      "item.soup.hide_rope": "皮绳"
     }
   },
   "foldersRoot": {
@@ -56,7 +94,7 @@
         "children": []
       },
       {
-        "name": "Synthesis",
+        "name": "synthesis",
         "children": []
       }
     ]
