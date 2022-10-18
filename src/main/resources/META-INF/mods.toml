@@ -6,9 +6,10 @@ license="Academic Free License v3.0"
 modId="soup"
 version="1.0.0"
 displayName="soup"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="19534, MCreator"
+credits="https://github.com/Adenx0/Soup"
+displayURL="https://github.com/Adenx0/Soup"
+logoFile="logo.png"
+authors="GreyWind"
 
 [[dependencies.soup]]
     modId="minecraft"
