@@ -1,9 +1,44 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Fiber",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fiber",
+      "path": "~/base item"
+    },
+    {
+      "name": "FiberSynthesis",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fiber_synthesis",
+      "path": "~/Synthesis"
+    },
+    {
+      "name": "HideRope",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hide_rope",
+      "path": "~/base item"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.soup.fiber": "Fiber",
+      "item.soup.hide_rope": "Hide Rope"
+    },
+    "zh_cn": {
+      "item.soup.fiber": "纤维",
+      "item.soup.hide_rope": "Hide Rope"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -19,6 +54,10 @@
       {
         "name": "special soup",
         "children": []
+      },
+      {
+        "name": "Synthesis",
+        "children": []
       }
     ]
   },
@@ -28,7 +67,7 @@
     "version": "1.0.0",
     "author": "GreyWind",
     "websiteURL": "https://github.com/Adenx0/Soup",
-    "license": "Academic Free License v3.0",
+    "license": "AGPL v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "ee",

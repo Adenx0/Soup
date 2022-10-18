@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="AGPL v3.0"
 
 [[mods]]
 modId="soup"
