@@ -1,2 +1,3 @@
-# Soup
- A mod that add different soup.
+# 汤
+
+本模组添加了各种各样的汤。
