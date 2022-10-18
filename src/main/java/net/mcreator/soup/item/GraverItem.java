@@ -5,7 +5,6 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.entity.ai.attributes.Attributes;
@@ -13,6 +12,7 @@ import net.minecraft.entity.ai.attributes.AttributeModifier;
 import net.minecraft.entity.ai.attributes.Attribute;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.soup.itemgroup.SoupItemGroup;
 import net.mcreator.soup.SoupModElements;
 
 import com.google.common.collect.Multimap;
@@ -34,7 +34,7 @@ public class GraverItem extends SoupModElements.ModElement {
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxDamage(100).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(SoupItemGroup.tab).maxDamage(100).rarity(Rarity.COMMON));
 			setRegistryName("graver");
 		}
 

@@ -8,7 +8,7 @@
     "name": "Graver",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Soup"
     },
     "stackSize": 1,
     "enchantability": 2,

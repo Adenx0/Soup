@@ -62,19 +62,41 @@
       "locked_code": false,
       "registry_name": "graver_synthesis",
       "path": "~/synthesis"
+    },
+    {
+      "name": "BambooTube",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_tube",
+      "path": "~/base item"
+    },
+    {
+      "name": "WaterBambooTube",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bamboo_tube",
+      "path": "~/base item"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.soup.water_bamboo_tube": "Water Bamboo Tube",
       "item.soup.graver": "Graver",
       "item.soup.fiber": "Fiber",
+      "item.soup.bamboo_tube": "Bamboo Tube",
       "item.soup.hide_rope": "Hide Rope"
     },
     "zh_cn": {
+      "item.soup.water_bamboo_tube": "Water Bamboo Tube",
       "item.soup.graver": "雕刻刀",
       "item.soup.fiber": "纤维",
+      "item.soup.bamboo_tube": "竹筒",
       "item.soup.hide_rope": "皮绳"
     }
   },
@@ -95,6 +117,10 @@
       },
       {
         "name": "synthesis",
+        "children": []
+      },
+      {
+        "name": "creative tab",
         "children": []
       }
     ]
