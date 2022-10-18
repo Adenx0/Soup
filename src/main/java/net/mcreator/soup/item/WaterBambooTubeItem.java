@@ -12,12 +12,12 @@ import net.minecraft.block.BlockState;
 import net.mcreator.soup.SoupModElements;
 
 @SoupModElements.ModElement.Tag
-public class BambooTubeItem extends SoupModElements.ModElement {
-	@ObjectHolder("soup:bamboo_tube")
+public class WaterBambooTubeItem extends SoupModElements.ModElement {
+	@ObjectHolder("soup:water_bamboo_tube")
 	public static final Item block = null;
 
-	public BambooTubeItem(SoupModElements instance) {
-		super(instance, 8);
+	public WaterBambooTubeItem(SoupModElements instance) {
+		super(instance, 9);
 	}
 
 	@Override
@@ -27,8 +27,8 @@ public class BambooTubeItem extends SoupModElements.ModElement {
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(16).rarity(Rarity.COMMON));
-			setRegistryName("bamboo_tube");
+			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("water_bamboo_tube");
 		}
 
 		@Override

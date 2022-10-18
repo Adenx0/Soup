@@ -3,14 +3,14 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "bamboo_tube",
+    "texture": "water_bamboo_tube",
     "customModelName": "Normal",
-    "name": "Bamboo Tube",
+    "name": "Water Bamboo Tube",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"
     },
-    "stackSize": 16,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
