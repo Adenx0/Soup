@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potion"
+    },
+    "1": {
+      "item": "minecraft:potion"
+    },
+    "2": {
+      "item": "minecraft:potion"
+    },
+    "3": {
+      "item": "soup:bamboo_tube"
+    }
+  },
+  "result": {
+    "item": "soup:water_bamboo_tube",
+    "count": 1
+  }
+}

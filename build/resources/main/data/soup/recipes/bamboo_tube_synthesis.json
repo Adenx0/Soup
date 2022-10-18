@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bamboo"
+    },
+    "1": {
+      "item": "soup:graver"
+    },
+    "2": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "soup:bamboo_tube",
+    "count": 1
+  }
+}
