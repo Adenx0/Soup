@@ -7,22 +7,37 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "base item",
+        "children": []
+      },
+      {
+        "name": "soup",
+        "children": []
+      },
+      {
+        "name": "special soup",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "soup",
     "modName": "soup",
     "version": "1.0.0",
-    "author": "19534, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "GreyWind",
+    "websiteURL": "https://github.com/Adenx0/Soup",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "ee",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "https://github.com/Adenx0/Soup",
     "modElementsPackage": "net.mcreator.soup",
     "lockBaseModFiles": false
   },
