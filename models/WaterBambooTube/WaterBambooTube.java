@@ -13,20 +13,20 @@ public class custom_model extends EntityModel<Entity> {
 
 		bottom = new ModelRenderer(this);
 		bottom.setRotationPoint(0.0F, 24.0F, 0.0F);
-		bottom.setTextureOffset(0, 0).addBox(-5.0F, -1.0F, -4.0F, 10.0F, 1.0F, 8.0F, 0.0F, false);
-		bottom.setTextureOffset(0, 9).addBox(-4.0F, -1.0F, 4.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
-		bottom.setTextureOffset(0, 9).addBox(-4.0F, -1.0F, -5.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
+		bottom.setTextureOffset(0, 0).addBox(-5.0F, -1.0F, -2.0F, 10.0F, 1.0F, 8.0F, 0.0F, false);
+		bottom.setTextureOffset(0, 9).addBox(-4.0F, -1.0F, 6.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
+		bottom.setTextureOffset(0, 9).addBox(-4.0F, -1.0F, -3.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
 
 		wall = new ModelRenderer(this);
 		wall.setRotationPoint(0.0F, 24.0F, 0.0F);
-		wall.setTextureOffset(0, 0).addBox(-4.0F, -12.0F, -6.0F, 8.0F, 11.0F, 1.0F, 0.0F, false);
-		wall.setTextureOffset(0, 0).addBox(-4.0F, -12.0F, 5.0F, 8.0F, 11.0F, 1.0F, 0.0F, false);
-		wall.setTextureOffset(10, 6).addBox(-6.0F, -12.0F, -4.0F, 1.0F, 11.0F, 8.0F, 0.0F, false);
-		wall.setTextureOffset(0, 0).addBox(5.0F, -12.0F, -4.0F, 1.0F, 11.0F, 8.0F, 0.0F, false);
-		wall.setTextureOffset(0, 0).addBox(4.0F, -12.0F, -5.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
-		wall.setTextureOffset(0, 0).addBox(-5.0F, -12.0F, -5.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
-		wall.setTextureOffset(0, 0).addBox(-5.0F, -12.0F, 4.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
-		wall.setTextureOffset(0, 0).addBox(4.0F, -12.0F, 4.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(-4.0F, -12.0F, -4.0F, 8.0F, 11.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(-4.0F, -12.0F, 7.0F, 8.0F, 11.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(10, 6).addBox(-6.0F, -12.0F, -2.0F, 1.0F, 11.0F, 8.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(5.0F, -12.0F, -2.0F, 1.0F, 11.0F, 8.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(4.0F, -12.0F, -3.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(-5.0F, -12.0F, -3.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(-5.0F, -12.0F, 6.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(4.0F, -12.0F, 6.0F, 1.0F, 11.0F, 1.0F, 0.0F, false);
 	}
 
 	@Override
