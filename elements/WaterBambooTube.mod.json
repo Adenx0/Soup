@@ -2,15 +2,15 @@
   "_fv": 34,
   "_type": "item",
   "definition": {
-    "renderType": 0,
+    "renderType": 1,
     "texture": "water_bamboo_tube",
-    "customModelName": "Normal",
+    "customModelName": "waterbambootube:default",
     "name": "Water Bamboo Tube",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:Soup"
+      "value": "MISC"
     },
-    "stackSize": 64,
+    "stackSize": 16,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,

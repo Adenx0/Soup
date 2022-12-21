@@ -1,6 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "soup:custom/waterbambootube",
   "textures": {
-    "layer0": "soup:items/water_bamboo_tube"
+    "0": "soup:blocks/waterbambootube",
+    "particle": "soup:items/water_bamboo_tube"
   }
 }
