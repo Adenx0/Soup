@@ -73,15 +73,6 @@
       "path": "~/base item"
     },
     {
-      "name": "WaterBambooTube",
-      "type": "item",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "water_bamboo_tube",
-      "path": "~/base item"
-    },
-    {
       "name": "Soup",
       "type": "tab",
       "sortid": 10,
@@ -107,6 +98,15 @@
       "locked_code": false,
       "registry_name": "water_bamboo_tube_synthesis",
       "path": "~/synthesis"
+    },
+    {
+      "name": "WaterBambooTube",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bamboo_tube",
+      "path": "~/base item"
     }
   ],
   "variable_elements": [],
@@ -121,7 +121,7 @@
       "item.soup.hide_rope": "Hide Rope"
     },
     "zh_cn": {
-      "item.soup.water_bamboo_tube": "装水的竹筒",
+      "item.soup.water_bamboo_tube": "Water Bamboo Tube",
       "itemGroup.tabsoup": "汤",
       "item.soup.graver": "雕刻刀",
       "item.soup.fiber": "纤维",
