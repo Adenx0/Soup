@@ -13,9 +13,9 @@ public class custom_model extends EntityModel<Entity> {
 
 		bottom = new ModelRenderer(this);
 		bottom.setRotationPoint(0.0F, 24.0F, 0.0F);
-		bottom.setTextureOffset(0, 11).addBox(-5.0F, -1.0F, -4.0F, 10.0F, 1.0F, 8.0F, 0.0F, false);
-		bottom.setTextureOffset(0, 0).addBox(-4.0F, -1.0F, 4.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
-		bottom.setTextureOffset(0, 0).addBox(-4.0F, -1.0F, -5.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
+		bottom.setTextureOffset(0, 0).addBox(-5.0F, -1.0F, -4.0F, 10.0F, 1.0F, 8.0F, 0.0F, false);
+		bottom.setTextureOffset(0, 9).addBox(-4.0F, -1.0F, 4.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
+		bottom.setTextureOffset(0, 9).addBox(-4.0F, -1.0F, -5.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
 
 		wall = new ModelRenderer(this);
 		wall.setRotationPoint(0.0F, 24.0F, 0.0F);
