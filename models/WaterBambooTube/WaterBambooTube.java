@@ -23,6 +23,10 @@ public class custom_model extends EntityModel<Entity> {
 		wall.setTextureOffset(0, 0).addBox(-4.0F, -2.0F, 5.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
 		wall.setTextureOffset(0, 0).addBox(-6.0F, -2.0F, -4.0F, 1.0F, 1.0F, 8.0F, 0.0F, false);
 		wall.setTextureOffset(0, 0).addBox(5.0F, -2.0F, -4.0F, 1.0F, 1.0F, 8.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(4.0F, -2.0F, -5.0F, 1.0F, 1.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(-5.0F, -2.0F, -5.0F, 1.0F, 1.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(-5.0F, -2.0F, 4.0F, 1.0F, 1.0F, 1.0F, 0.0F, false);
+		wall.setTextureOffset(0, 0).addBox(4.0F, -2.0F, 4.0F, 1.0F, 1.0F, 1.0F, 0.0F, false);
 	}
 
 	@Override
