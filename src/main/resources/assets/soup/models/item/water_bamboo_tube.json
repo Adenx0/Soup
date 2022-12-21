@@ -1,10 +1,7 @@
 {
-  "forge_marker": 1,
-  "parent": "forge:item/default",
-  "loader": "forge:obj",
-  "model": "soup:models/item/waterbambootube.obj",
+  "parent": "soup:custom/waterbambootube",
   "textures": {
-    "m_fdf8aebc-f138-fa05-a736-f68a601ba6a4": "soup:blocks/",
+    "0": "soup:blocks/waterbambootube",
     "particle": "soup:items/water_bamboo_tube"
   }
 }
