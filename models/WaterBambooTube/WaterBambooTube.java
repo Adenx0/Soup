@@ -8,6 +8,7 @@ public class custom_model extends EntityModel<Entity> {
 	private final ModelRenderer bottom;
 	private final ModelRenderer wall;
 	private final ModelRenderer handle;
+	private final ModelRenderer water;
 
 	public custom_model() {
 		textureWidth = 64;
@@ -42,6 +43,13 @@ public class custom_model extends EntityModel<Entity> {
 		handle.setTextureOffset(0, 0).addBox(-1.0F, -10.0F, -6.0F, 2.0F, 1.0F, 2.0F, 0.0F, false);
 		handle.setTextureOffset(0, 0).addBox(-1.0F, -4.0F, -6.0F, 2.0F, 1.0F, 2.0F, 0.0F, false);
 		handle.setTextureOffset(0, 0).addBox(-1.0F, -11.0F, -7.0F, 2.0F, 9.0F, 1.0F, 0.0F, false);
+
+		water = new ModelRenderer(this);
+		water.setRotationPoint(0.0F, 0.0F, 0.0F);
+		all.addChild(water);
+		water.setTextureOffset(0, 25).addBox(-5.0F, -10.0F, -2.0F, 10.0F, 1.0F, 8.0F, 0.0F, false);
+		water.setTextureOffset(9, 31).addBox(-4.0F, -10.0F, -3.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
+		water.setTextureOffset(9, 31).addBox(-4.0F, -10.0F, 6.0F, 8.0F, 1.0F, 1.0F, 0.0F, false);
 	}
 
 	@Override
