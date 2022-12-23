@@ -5,10 +5,10 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.soup.itemgroup.SoupItemGroup;
 import net.mcreator.soup.SoupModElements;
 
 @SoupModElements.ModElement.Tag
@@ -28,7 +28,6 @@ public class WaterBambooTubeItem extends SoupModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(SoupItemGroup.tab).maxStackSize(16).rarity(Rarity.COMMON));
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(16).rarity(Rarity.COMMON));
 			setRegistryName("water_bamboo_tube");
 		}
 

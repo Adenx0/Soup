@@ -107,15 +107,6 @@
       "locked_code": false,
       "registry_name": "water_bamboo_tube",
       "path": "~/base item"
-    },
-    {
-      "name": "PurpleMedicineFlower",
-      "type": "plant",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "purple_medicine_flower",
-      "path": "~/flower"
     }
   ],
   "variable_elements": [],
@@ -127,8 +118,7 @@
       "item.soup.graver": "Graver",
       "item.soup.fiber": "Fiber",
       "item.soup.bamboo_tube": "Bamboo Tube",
-      "item.soup.hide_rope": "Hide Rope",
-      "block.soup.purple_medicine_flower": "Purple Medicine Flower"
+      "item.soup.hide_rope": "Hide Rope"
     },
     "zh_cn": {
       "item.soup.water_bamboo_tube": "Water Bamboo Tube",
@@ -136,8 +126,7 @@
       "item.soup.graver": "雕刻刀",
       "item.soup.fiber": "纤维",
       "item.soup.bamboo_tube": "竹筒",
-      "item.soup.hide_rope": "皮绳",
-      "block.soup.purple_medicine_flower": "Purple Medicine Flower"
+      "item.soup.hide_rope": "皮绳"
     }
   },
   "foldersRoot": {
