@@ -170,15 +170,6 @@
       "locked_code": false,
       "registry_name": "red_medicine_flower_synthesis",
       "path": "~/synthesis"
-    },
-    {
-      "name": "WhiteMedicineFlowerSynthesis",
-      "type": "recipe",
-      "sortid": 21,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "white_medicine_flower_synthesis",
-      "path": "~/synthesis"
     }
   ],
   "variable_elements": [],

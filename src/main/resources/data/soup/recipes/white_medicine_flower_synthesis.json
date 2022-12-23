@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:oxeye_daisy"
+    },
+    "2": {
+      "item": "minecraft:oxeye_daisy"
+    },
+    "3": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "soup:white_medicine_flower",
+    "count": 1
+  }
+}
