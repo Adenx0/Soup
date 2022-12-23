@@ -134,6 +134,15 @@
       "locked_code": false,
       "registry_name": "blue_medicine_flower",
       "path": "~/flower"
+    },
+    {
+      "name": "WhiteMedicineFlower",
+      "type": "plant",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_medicine_flower",
+      "path": "~/flower"
     }
   ],
   "variable_elements": [],
@@ -147,6 +156,7 @@
       "block.soup.blue_medicine_flower": "Blue Medicine Flower",
       "block.soup.red_medicine_flower": "Red Medicine Flower",
       "item.soup.bamboo_tube": "Bamboo Tube",
+      "block.soup.white_medicine_flower": "White Medicine Flower",
       "item.soup.hide_rope": "Hide Rope",
       "block.soup.purple_medicine_flower": "Purple Medicine Flower"
     },
@@ -158,6 +168,7 @@
       "block.soup.blue_medicine_flower": "蓝色药花",
       "block.soup.red_medicine_flower": "红色药花",
       "item.soup.bamboo_tube": "竹筒",
+      "block.soup.white_medicine_flower": "Blue Medicine Flower",
       "item.soup.hide_rope": "皮绳",
       "block.soup.purple_medicine_flower": "紫色药花"
     }
