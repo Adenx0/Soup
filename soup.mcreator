@@ -151,6 +151,10 @@
       {
         "name": "creative tab",
         "children": []
+      },
+      {
+        "name": "flower",
+        "children": []
       }
     ]
   },
