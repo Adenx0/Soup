@@ -1,8 +1,0 @@
-{
-  "parent": "soup:custom/purplemedicineflower",
-  "textures": {
-    "all": "soup:blocks/purplemedicineflower",
-    "particle": "soup:blocks/purplemedicineflower",
-    "0": "soup:blocks/purplemedicineflower"
-  }
-}

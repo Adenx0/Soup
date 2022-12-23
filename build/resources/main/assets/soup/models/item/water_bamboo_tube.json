@@ -1,7 +1,0 @@
-{
-  "parent": "soup:custom/waterbambootube",
-  "textures": {
-    "0": "soup:blocks/waterbambootube",
-    "particle": "soup:items/water_bamboo_tube"
-  }
-}

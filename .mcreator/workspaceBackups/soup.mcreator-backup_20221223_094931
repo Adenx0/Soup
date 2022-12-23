@@ -116,15 +116,6 @@
       "locked_code": false,
       "registry_name": "purple_medicine_flower",
       "path": "~/flower"
-    },
-    {
-      "name": "RedMedicineFlower",
-      "type": "plant",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "red_medicine_flower",
-      "path": "~/flower"
     }
   ],
   "variable_elements": [],
@@ -135,7 +126,6 @@
       "itemGroup.tabsoup": "Soup",
       "item.soup.graver": "Graver",
       "item.soup.fiber": "Fiber",
-      "block.soup.red_medicine_flower": "Purple Medicine Flower",
       "item.soup.bamboo_tube": "Bamboo Tube",
       "item.soup.hide_rope": "Hide Rope",
       "block.soup.purple_medicine_flower": "Purple Medicine Flower"
@@ -145,7 +135,6 @@
       "itemGroup.tabsoup": "汤",
       "item.soup.graver": "雕刻刀",
       "item.soup.fiber": "纤维",
-      "block.soup.red_medicine_flower": "Purple Medicine Flower",
       "item.soup.bamboo_tube": "竹筒",
       "item.soup.hide_rope": "皮绳",
       "block.soup.purple_medicine_flower": "Purple Medicine Flower"
