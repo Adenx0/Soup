@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:cornflower"
+    },
+    "2": {
+      "item": "minecraft:cornflower"
+    },
+    "3": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "soup:blue_medicine_flower",
+    "count": 1
+  }
+}

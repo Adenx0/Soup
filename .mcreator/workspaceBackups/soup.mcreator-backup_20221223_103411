@@ -1,0 +1,252 @@
+{
+  "mod_elements": [
+    {
+      "name": "Fiber",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fiber",
+      "path": "~/base item"
+    },
+    {
+      "name": "FiberSynthesis",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fiber_synthesis",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "HideRope",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hide_rope",
+      "path": "~/base item"
+    },
+    {
+      "name": "HideRopeSynthesis1",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hide_rope_synthesis_1",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "HideRopeSynthesis2",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hide_rope_synthesis_2",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "Graver",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graver",
+      "path": "~/base item"
+    },
+    {
+      "name": "GraverSynthesis",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graver_synthesis",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "BambooTube",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_tube",
+      "path": "~/base item"
+    },
+    {
+      "name": "Soup",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soup",
+      "path": "~/creative tab"
+    },
+    {
+      "name": "BambooTubeSynthesis",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_tube_synthesis",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "WaterBambooTubeSynthesis",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bamboo_tube_synthesis",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "WaterBambooTube",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bamboo_tube",
+      "path": "~/base item"
+    },
+    {
+      "name": "PurpleMedicineFlower",
+      "type": "plant",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_medicine_flower",
+      "path": "~/flower"
+    },
+    {
+      "name": "RedMedicineFlower",
+      "type": "plant",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_medicine_flower",
+      "path": "~/flower"
+    },
+    {
+      "name": "BlueMedicineFlower",
+      "type": "plant",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_medicine_flower",
+      "path": "~/flower"
+    },
+    {
+      "name": "WhiteMedicineFlower",
+      "type": "plant",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_medicine_flower",
+      "path": "~/flower"
+    },
+    {
+      "name": "PurpleMedicineFlowerSynthesis",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_medicine_flower_synthesis",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "BlueMedicineFlowerSynthesis",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_medicine_flower_synthesis",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "RedMedicineFlowerSynthesis",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_medicine_flower_synthesis",
+      "path": "~/synthesis"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.soup.water_bamboo_tube": "Water Bamboo Tube",
+      "itemGroup.tabsoup": "Soup",
+      "item.soup.graver": "Graver",
+      "item.soup.fiber": "Fiber",
+      "block.soup.blue_medicine_flower": "Blue Medicine Flower",
+      "block.soup.red_medicine_flower": "Red Medicine Flower",
+      "item.soup.bamboo_tube": "Bamboo Tube",
+      "block.soup.white_medicine_flower": "White Medicine Flower",
+      "item.soup.hide_rope": "Hide Rope",
+      "block.soup.purple_medicine_flower": "Purple Medicine Flower"
+    },
+    "zh_cn": {
+      "item.soup.water_bamboo_tube": "有水的竹筒",
+      "itemGroup.tabsoup": "汤",
+      "item.soup.graver": "雕刻刀",
+      "item.soup.fiber": "纤维",
+      "block.soup.blue_medicine_flower": "蓝色药花",
+      "block.soup.red_medicine_flower": "红色药花",
+      "item.soup.bamboo_tube": "竹筒",
+      "block.soup.white_medicine_flower": "白色药花",
+      "item.soup.hide_rope": "皮绳",
+      "block.soup.purple_medicine_flower": "紫色药花"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "base item",
+        "children": []
+      },
+      {
+        "name": "soup",
+        "children": []
+      },
+      {
+        "name": "special soup",
+        "children": []
+      },
+      {
+        "name": "synthesis",
+        "children": []
+      },
+      {
+        "name": "creative tab",
+        "children": []
+      },
+      {
+        "name": "flower",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "soup",
+    "modName": "soup",
+    "version": "1.1.0",
+    "author": "GreyWind",
+    "websiteURL": "https://github.com/Adenx0/Soup",
+    "license": "AGPL v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "ee",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "https://github.com/Adenx0/Soup",
+    "modElementsPackage": "net.mcreator.soup",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

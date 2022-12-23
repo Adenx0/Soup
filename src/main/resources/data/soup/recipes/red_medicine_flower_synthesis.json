@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:red_tulip"
+    },
+    "2": {
+      "item": "minecraft:red_tulip"
+    },
+    "3": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "soup:red_medicine_flower",
+    "count": 1
+  }
+}
