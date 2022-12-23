@@ -152,6 +152,24 @@
       "locked_code": false,
       "registry_name": "purple_medicine_flower_synthesis",
       "path": "~/synthesis"
+    },
+    {
+      "name": "BlueMedicineFlowerSynthesis",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_medicine_flower_synthesis",
+      "path": "~/synthesis"
+    },
+    {
+      "name": "RedMedicineFlowerSynthesis",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_medicine_flower_synthesis",
+      "path": "~/synthesis"
     }
   ],
   "variable_elements": [],

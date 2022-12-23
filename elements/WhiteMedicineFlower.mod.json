@@ -3,7 +3,7 @@
   "_type": "plant",
   "definition": {
     "renderType": 2,
-    "texture": "bluemedicineflower",
+    "texture": "whitemedicineflower",
     "textureBottom": "",
     "customModelName": "whitemedicineflower:default",
     "itemTexture": "",
