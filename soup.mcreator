@@ -144,22 +144,22 @@
       "itemGroup.tabsoup": "Soup",
       "item.soup.graver": "Graver",
       "item.soup.fiber": "Fiber",
-      "block.soup.blue_medicine_flower": "Purple Medicine Flower",
-      "block.soup.red_medicine_flower": "Purple Medicine Flower",
+      "block.soup.blue_medicine_flower": "Blue Medicine Flower",
+      "block.soup.red_medicine_flower": "Red Medicine Flower",
       "item.soup.bamboo_tube": "Bamboo Tube",
       "item.soup.hide_rope": "Hide Rope",
       "block.soup.purple_medicine_flower": "Purple Medicine Flower"
     },
     "zh_cn": {
-      "item.soup.water_bamboo_tube": "Water Bamboo Tube",
+      "item.soup.water_bamboo_tube": "有水的竹筒",
       "itemGroup.tabsoup": "汤",
       "item.soup.graver": "雕刻刀",
       "item.soup.fiber": "纤维",
-      "block.soup.blue_medicine_flower": "Purple Medicine Flower",
-      "block.soup.red_medicine_flower": "Purple Medicine Flower",
+      "block.soup.blue_medicine_flower": "蓝色药花",
+      "block.soup.red_medicine_flower": "红色药花",
       "item.soup.bamboo_tube": "竹筒",
       "item.soup.hide_rope": "皮绳",
-      "block.soup.purple_medicine_flower": "Purple Medicine Flower"
+      "block.soup.purple_medicine_flower": "紫色药花"
     }
   },
   "foldersRoot": {
